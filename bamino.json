@@ -1,0 +1,97 @@
+{
+    "foods": {
+        "tradition": [
+            {
+                "title": "Bánh mì thịt nướng",
+                "price": 20,
+                "description": "Thịt nướng nóng, thơm, ngon ăn kèm với xà lách, dưa leo, đồ chua, hành ngò, nước sốt thịt nướng và mayonaise đặc biệt.",
+                "imageUrl": ""
+            },
+            {
+                "title": "Bánh mì thịt nướng",
+                "price": 15,
+                "description": "Thịt nướng nóng, thơm, ngon ăn kèm với xà lách, dưa leo, đồ chua, hành ngò, nước tương, và tương ớt.",
+                "imageUrl": ""
+            },
+            {
+                "title": "Bánh mì chả cá Nha Trang",
+                "price": 17,
+                "description": "Chả cá Nha Trang (Nhà làm) nóng, dai và siêu ngon ăn cùng với hành, ngò, dưa leo, đồ chua, và nước mắm ngọt.",
+                "imageUrl": ""
+            },
+            {
+                "title": "Bánh mì xíu mại",
+                "price": 13,
+                "description": "Xíu mại ăn cùng với xà lách, hành, ngò, dưa leo, đồ chua, và nước xíu mại đậm đà.",
+                "imageUrl": ""
+            },
+            {
+                "title": "Bánh mì trứng ốp la",
+                "price": 12,
+                "description": "Trứng ăn cùng với xà lách, ngò, đồ chua, và muối tiêu.",
+                "imageUrl": ""
+            }
+        ],
+        "bamino": [
+            {
+                "title": "Bánh mì nón thịt nướng",
+                "price": 25,
+                "description": "Thịt nướng nóng, thơm, ngon trộn cùng với xà lách, dưa leo, đồ chua, hành phi, hành, ngò, nước sốt thịt nướng và mayonaise đặc biệt.",
+                "imageUrl": ""
+            },
+            {
+                "title": "Bánh mì nón chả cá Nha Trang",
+                "price": 25,
+                "description": "Chả cá Nha Trang (Nhà làm) nóng, dai, và siêu ngon được trộn cùng với hành phi, hành, ngò, dưa leo, đồ chua, và nước mắm ngọt.",
+                "imageUrl": ""
+            },
+            {
+                "title": "Bánh mì nón xíu mại",
+                "price": 23,
+                "description": "Xíu mại trộn cùng với xà lách, hành, ngò, dưa leo, đồ chua, và nước xíu mại đậm đà.",
+                "imageUrl": ""
+            },
+            {
+                "title": "Bánh mì nón (3) trứng",
+                "price": 20,
+                "description": "Nỗi lo rớt trứng nay đã không cần phải lo nữa rồi. Giờ đây, với tận 3 trứng ốp la tràn ngập ổ bánh mì với tương, sốt, muối tiêu... sẽ thoả mãn những tín đồ bánh mì ốp la.",
+                "imageUrl": ""
+            }
+        ]
+    },
+    "beverages": {
+        "cafe": [
+            {
+                "title": "Cafe đá",
+                "price": 15,
+                "imageUrl": ""
+            },
+            {
+                "title": "Cafe sữa",
+                "price": 18,
+                "imageUrl": ""
+            }
+        ],
+        "milkTea": [
+            {
+                "title": "Hồng trà chanh",
+                "price": 15,
+                "imageUrl": ""
+            },
+            {
+                "title": "Hồng trà tắc",
+                "price": 15,
+                "imageUrl": ""
+            },
+            {
+                "title": "Hồng trà đào",
+                "price": 15,
+                "imageUrl": ""
+            }
+        ]
+    },
+    "optional": {
+        "title": "Them 1 mon",
+        "price": 5
+    }
+}
