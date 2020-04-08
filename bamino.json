@@ -1,36 +1,36 @@
 {
-    "logoImageURL": "https://www.dropbox.com/s/e2c07lzzq5rqnyf/logo.png?dl=0",
+    "logoImageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/logo.png?alt=media&token=9be95420-2c67-4bd9-9e89-66626c7617fa",
     "foods": {
         "tradition": [
             {
                 "title": "Bánh mì thịt nướng",
                 "price": 20,
                 "description": "Thịt nướng nóng, thơm, ngon ăn kèm với xà lách, dưa leo, đồ chua, hành ngò, nước sốt thịt nướng và mayonaise đặc biệt.",
-                "imageURL": "https://www.dropbox.com/s/86ll8kz12y7ewe2/thit_nuong.png?dl=0"
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/thit_nuong.png?alt=media&token=cefdbb9d-2c5e-4389-8b0e-76acbf584cde"
             },
             {
                 "title": "Bánh mì thịt nướng",
                 "price": 15,
                 "description": "Thịt nướng nóng, thơm, ngon ăn kèm với xà lách, dưa leo, đồ chua, hành ngò, nước tương, và tương ớt.",
-                "imageURL": "https://www.dropbox.com/s/86ll8kz12y7ewe2/thit_nuong.png?dl=0"
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/thit_nuong.png?alt=media&token=cefdbb9d-2c5e-4389-8b0e-76acbf584cde"
             },
             {
                 "title": "Bánh mì chả cá Nha Trang",
                 "price": 17,
                 "description": "Chả cá Nha Trang (Nhà làm) nóng, dai và siêu ngon ăn cùng với hành, ngò, dưa leo, đồ chua, và nước mắm ngọt.",
-                "imageURL": "https://www.dropbox.com/s/gmuiyumx1want9g/cha_ca.png?dl=0"
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/cha_ca.png?alt=media&token=ad1001f1-dae2-472d-be19-a787505434d6"
             },
             {
                 "title": "Bánh mì xíu mại",
                 "price": 13,
                 "description": "Xíu mại ăn cùng với xà lách, hành, ngò, dưa leo, đồ chua, và nước xíu mại đậm đà.",
-                "imageURL": "https://www.dropbox.com/s/sc0eizpug6se4fz/xiu_mai.png?dl=0"
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/xiu_mai.png?alt=media&token=f3d72ba7-61b2-4ceb-a209-5f72b0812d96"
             },
             {
                 "title": "Bánh mì trứng ốp la",
                 "price": 12,
                 "description": "Trứng ăn cùng với xà lách, ngò, đồ chua, và muối tiêu.",
-                "imageURL": "https://www.dropbox.com/s/rl8i25o1wxbwll0/trung.png?dl=0"
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/trung.png?alt=media&token=19aa05e3-d859-4979-af24-ab246917e1df"
             }
         ],
         "bamino": [
