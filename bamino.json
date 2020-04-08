@@ -6,31 +6,31 @@
                 "title": "Bánh mì thịt nướng",
                 "price": 20,
                 "description": "Thịt nướng nóng, thơm, ngon ăn kèm với xà lách, dưa leo, đồ chua, hành ngò, nước sốt thịt nướng và mayonaise đặc biệt.",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/thit_nuong.png?alt=media&token=cefdbb9d-2c5e-4389-8b0e-76acbf584cde"
+                "imageName": "thit_nuong"
             },
             {
                 "title": "Bánh mì thịt nướng",
                 "price": 15,
                 "description": "Thịt nướng nóng, thơm, ngon ăn kèm với xà lách, dưa leo, đồ chua, hành ngò, nước tương, và tương ớt.",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/thit_nuong.png?alt=media&token=cefdbb9d-2c5e-4389-8b0e-76acbf584cde"
+                "imageName": "thit_nuong"
             },
             {
                 "title": "Bánh mì chả cá Nha Trang",
                 "price": 17,
                 "description": "Chả cá Nha Trang (Nhà làm) nóng, dai và siêu ngon ăn cùng với hành, ngò, dưa leo, đồ chua, và nước mắm ngọt.",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/cha_ca.png?alt=media&token=ad1001f1-dae2-472d-be19-a787505434d6"
+                "imageName": "cha_ca"
             },
             {
                 "title": "Bánh mì xíu mại",
                 "price": 13,
                 "description": "Xíu mại ăn cùng với xà lách, hành, ngò, dưa leo, đồ chua, và nước xíu mại đậm đà.",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/xiu_mai.png?alt=media&token=f3d72ba7-61b2-4ceb-a209-5f72b0812d96"
+                "imageName": "xiu_mai"
             },
             {
                 "title": "Bánh mì trứng ốp la",
                 "price": 12,
                 "description": "Trứng ăn cùng với xà lách, ngò, đồ chua, và muối tiêu.",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/trung.png?alt=media&token=19aa05e3-d859-4979-af24-ab246917e1df"
+                "imageName": "trung"
             }
         ],
         "bamino": [
@@ -38,25 +38,25 @@
                 "title": "Bánh mì nón thịt nướng",
                 "price": 25,
                 "description": "Thịt nướng nóng, thơm, ngon trộn cùng với xà lách, dưa leo, đồ chua, hành phi, hành, ngò, nước sốt thịt nướng và mayonaise đặc biệt.",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/thit_nuong.png?alt=media&token=cefdbb9d-2c5e-4389-8b0e-76acbf584cde"
+                "imageName": "thit_nuong"
             },
             {
                 "title": "Bánh mì nón chả cá Nha Trang",
                 "price": 25,
                 "description": "Chả cá Nha Trang (Nhà làm) nóng, dai, và siêu ngon được trộn cùng với hành phi, hành, ngò, dưa leo, đồ chua, và nước mắm ngọt.",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/thit_nuong.png?alt=media&token=cefdbb9d-2c5e-4389-8b0e-76acbf584cde"
+                "imageName": "cha_ca"
             },
             {
                 "title": "Bánh mì nón xíu mại",
                 "price": 23,
                 "description": "Xíu mại trộn cùng với xà lách, hành, ngò, dưa leo, đồ chua, và nước xíu mại đậm đà.",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/thit_nuong.png?alt=media&token=cefdbb9d-2c5e-4389-8b0e-76acbf584cde"
+                "imageName": "xiu_mai"
             },
             {
                 "title": "Bánh mì nón (3) trứng",
                 "price": 20,
                 "description": "Nỗi lo rớt trứng nay đã không cần phải lo nữa rồi. Giờ đây, với tận 3 trứng ốp la tràn ngập ổ bánh mì với tương, sốt, muối tiêu... sẽ thoả mãn những tín đồ bánh mì ốp la.",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/thit_nuong.png?alt=media&token=cefdbb9d-2c5e-4389-8b0e-76acbf584cde"
+                "imageName": "trung"
             }
         ]
     },
@@ -65,29 +65,29 @@
             {
                 "title": "Cafe đá",
                 "price": 15,
-                "imageURL": "https://cdn.shopify.com/s/files/1/1135/9368/products/GCB_ICED_COFFEE_REDUX_2000x2000.jpg?v=1565306516"
+                "imageName": "cafe_da"
             },
             {
                 "title": "Cafe sữa",
                 "price": 18,
-                "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/0e/50/85/a5/cafe-sua-da-vietnamese.jpg"
+                "imageName": "cafe_sua"
             }
         ],
         "milkTea": [
             {
                 "title": "Hồng trà chanh",
                 "price": 15,
-                "imageURL": "https://www.ohhowcivilized.com/wp-content/uploads/2019/05/0519-bubble-tea-16-2.jpg"
+                "imageName": "milk_tea"
             },
             {
                 "title": "Hồng trà tắc",
                 "price": 15,
-                "imageURL": "https://www.ohhowcivilized.com/wp-content/uploads/2019/05/0519-bubble-tea-16-2.jpg"
+                "imageName": "milk_tea"
             },
             {
                 "title": "Hồng trà đào",
                 "price": 15,
-                "imageURL": "https://www.ohhowcivilized.com/wp-content/uploads/2019/05/0519-bubble-tea-16-2.jpg"
+                "imageName": "milk_tea"
             }
         ]
     },
