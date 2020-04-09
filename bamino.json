@@ -6,31 +6,36 @@
                 "title": "Bánh mì thịt nướng",
                 "price": 20,
                 "description": "Thịt nướng nóng, thơm, ngon ăn kèm với xà lách, dưa leo, đồ chua, hành ngò, nước sốt thịt nướng và mayonaise đặc biệt.",
-                "imageName": "thit_nuong"
+                "imageName": "thit_nuong",
+                "star": 0
             },
             {
                 "title": "Bánh mì thịt nướng",
                 "price": 15,
                 "description": "Thịt nướng nóng, thơm, ngon ăn kèm với xà lách, dưa leo, đồ chua, hành ngò, nước tương, và tương ớt.",
-                "imageName": "thit_nuong"
+                "imageName": "thit_nuong",
+                "star": 0
             },
             {
                 "title": "Bánh mì chả cá Nha Trang",
                 "price": 17,
                 "description": "Chả cá Nha Trang (Nhà làm) nóng, dai và siêu ngon ăn cùng với hành, ngò, dưa leo, đồ chua, và nước mắm ngọt.",
-                "imageName": "cha_ca"
+                "imageName": "cha_ca",
+                "star": 0
             },
             {
                 "title": "Bánh mì xíu mại",
                 "price": 13,
                 "description": "Xíu mại ăn cùng với xà lách, hành, ngò, dưa leo, đồ chua, và nước xíu mại đậm đà.",
-                "imageName": "xiu_mai"
+                "imageName": "xiu_mai",
+                "star": 0
             },
             {
                 "title": "Bánh mì trứng ốp la",
                 "price": 12,
                 "description": "Trứng ăn cùng với xà lách, ngò, đồ chua, và muối tiêu.",
-                "imageName": "trung"
+                "imageName": "trung",
+                "star": 0
             }
         ],
         "bamino": [
@@ -38,25 +43,29 @@
                 "title": "Bánh mì nón thịt nướng",
                 "price": 25,
                 "description": "Thịt nướng nóng, thơm, ngon trộn cùng với xà lách, dưa leo, đồ chua, hành phi, hành, ngò, nước sốt thịt nướng và mayonaise đặc biệt.",
-                "imageName": "thit_nuong"
+                "imageName": "thit_nuong",
+                "star": 0
             },
             {
                 "title": "Bánh mì nón chả cá Nha Trang",
                 "price": 25,
                 "description": "Chả cá Nha Trang (Nhà làm) nóng, dai, và siêu ngon được trộn cùng với hành phi, hành, ngò, dưa leo, đồ chua, và nước mắm ngọt.",
-                "imageName": "cha_ca"
+                "imageName": "cha_ca",
+                "star": 0
             },
             {
                 "title": "Bánh mì nón xíu mại",
                 "price": 23,
                 "description": "Xíu mại trộn cùng với xà lách, hành, ngò, dưa leo, đồ chua, và nước xíu mại đậm đà.",
-                "imageName": "xiu_mai"
+                "imageName": "xiu_mai",
+                "star": 0
             },
             {
                 "title": "Bánh mì nón (3) trứng",
                 "price": 20,
                 "description": "Nỗi lo rớt trứng nay đã không cần phải lo nữa rồi. Giờ đây, với tận 3 trứng ốp la tràn ngập ổ bánh mì với tương, sốt, muối tiêu... sẽ thoả mãn những tín đồ bánh mì ốp la.",
-                "imageName": "trung"
+                "imageName": "trung",
+                "star": 0
             }
         ]
     },
@@ -65,29 +74,34 @@
             {
                 "title": "Cafe đá",
                 "price": 15,
-                "imageName": "cafe_da"
+                "imageName": "cafe_da",
+                "star": 0
             },
             {
                 "title": "Cafe sữa",
                 "price": 18,
-                "imageName": "cafe_sua"
+                "imageName": "cafe_sua",
+                "star": 0
             }
         ],
         "milkTea": [
             {
                 "title": "Hồng trà chanh",
                 "price": 15,
-                "imageName": "milk_tea"
+                "imageName": "milk_tea",
+                "star": 0
             },
             {
                 "title": "Hồng trà tắc",
                 "price": 15,
-                "imageName": "milk_tea"
+                "imageName": "milk_tea",
+                "star": 0
             },
             {
                 "title": "Hồng trà đào",
                 "price": 15,
-                "imageName": "milk_tea"
+                "imageName": "milk_tea",
+                "star": 0
             }
         ]
     },
