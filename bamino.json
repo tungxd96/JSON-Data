@@ -1,5 +1,34 @@
 {
-    "logoImageURL": "https://firebasestorage.googleapis.com/v0/b/bamino1961-5cde8.appspot.com/o/logo.png?alt=media&token=9be95420-2c67-4bd9-9e89-66626c7617fa",
+    "about": "Bạn đã từng?\nNước sốt nhiễu đầy ra tay, đồ ăn rơi xuống bao giấy hay thậm chí rớt hẳn xuống đất khi bạn ăn bánh mì. Điều này đã từng gây không ít phiền hà và bất tiện cho bạn khi ăn bánh mì truyền thống với cắt cắt dọc ổ bánh mì từ trên xuống dưới. Từ thịt, chả, đồ chua, dưa leo hay cả một miếng trứng mà chúng tôi tin rằng bạn đã từng ít nhất một lần phải để rơi mất khỏi ổ bánh mì ngon lành mà bạn chỉ vừa mới chuẩn bị ăn. Với một ổ bánh mì được cắt ngang chóp, đồ ăn sẽ được nằm \"gọn\" trong ổ bánh mì một cách \"ngoan ngoãn\" và sẽ không bao giờ rơi ra khỏi ổ bánh mì ngon lành của bạn được nữa. Bánh Mì Nón 1961 ra đời với một lí do rất nhỏ bé và đơn giản với hi vọng sẽ mang cách ăn tuy cũ mà mới này đến với bạn và giúp cho trải nghiệm ăn uống của bạn thêm phần thú vị và tiện lợi hơn.",
+    "location": {
+        "province": "Quận 4",
+        "city": "Hồ Chí Minh",
+        "country": "Việt Nam"
+    },
+    "shipping": {
+        "location": [
+            {
+                "province": "Quận 1"
+            },
+            {
+                "province": "Quận 4"
+            },
+            {
+                "province": "Quận 8"
+            },
+            {
+                "province": "Quận Bình Thạnh"
+            }
+        ],
+        "requirements": {
+            "least": 5
+        },
+        "price": {
+            "5 - 9": 30,
+            "10 - up": 0
+        }
+    },
+    "logoImageName": "logo",
     "foods": {
         "tradition": [
             {
