@@ -155,10 +155,42 @@
         {
             "type": "Bach Tuoc Nuong Sa Te",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/vinh-khanh-district4-13.jpg"
+        }
+    ],
+    "dessert": [
+        {
+            "type": "Che Thap Cam",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/09/achefstour-hanoi-sreet-food-che2.jpg"
         },
         {
-            "type": "Che",
-            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/09/achefstour-hanoi-sreet-food-che2.jpg"
+            "type": "Che Bap",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/11/com-hen-hoa-dong5.jpg"
+        },
+        {
+            "type": "Banh xoai",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/thu-bon-river-vendors5.jpg"
+        },
+        {
+            "type": "Che Me Den",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/thu-bon-river-vendors3.jpg"
+        }
+    ],
+    "beverage": [
+        {
+            "type": "Ca Phe Trung",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/cafe-dinh2.jpg"
+        },
+        {
+            "type": "Ca Phe Muoi",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/cafe-muoi2.jpg"
+        },
+        {
+            "type": "Nuoc Mia",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2020/02/nuoc-mia.jpg"
+        },
+        {
+            "type": "Bia Hoi",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/09/achefstour-hanoi-sreet-food-bia-hoi.jpg"
         }
     ]
 }
