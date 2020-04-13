@@ -9,7 +9,7 @@
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/12/madam-khanh-the-banh-my-queen1.jpg"
         },
         {
-            "type": "Nem Cuon / Goi Cuon",
+            "type": "Nem Cuon/Goi Cuon",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/goi-cuon.jpg"
         },
         {
@@ -63,6 +63,102 @@
         {
             "type": "Thang Co",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2020/02/thang-co.jpg"
+        },
+        {
+            "type": "Com Hen/Bun Hen",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/11/com-hen-ba-cam1.jpg"
+        },
+        {
+            "type": "Com Ga",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/12/long-com-ga-chicken-rice1.jpg"
+        },
+        {
+            "type": "Com Tam Suon Nuong",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2020/01/cam-tam-tran-qui-cap1.jpg"
+        },
+        {
+            "type": "Hu Tieu",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2020/02/hu-tieu.jpg"
+        },
+        {
+            "type": "Xoi",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/09/achefstour-hanoi-sreet-food-xoi2.jpg"
+        },
+        {
+            "type": "Banh Cong",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2020/02/banh-cong.jpg"
+        },
+        {
+            "type": "Bun Bo Nam Bo",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/bun-bo-nam-bo1.jpg"
+        },
+        {
+            "type": "Bun Rieu",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/09/achefstour-hanoi-sreet-food-bun-rieu-cua2.jpg"
+        },
+        {
+            "type": "Luon",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/mien-luon-dong-thinh5.jpg"
+        },
+        {
+            "type": "Nem Cua Be",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/bun-cha34-3.jpg"
+        },
+        {
+            "type": "Bot Chien",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/inspitrip-vietnam8.jpg"
+        },
+        {
+            "type": "Banh Canh",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/11/banh-canh-cua-roi2.jpg"
+        },
+        {
+            "type": "Nem Nuong/Nem Lui",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/11/tai-phu1.jpg"
+        },
+        {
+            "type": "Banh Goi/Banh Tom",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/quan-goc-da4.jpg"
+        },
+        {
+            "type": "Chao Tom",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/chao-tom.jpg"
+        },
+        {
+            "type": "Gio Lua/Cha Lua",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/minh-chau3.jpg"
+        },
+        {
+            "type": "Bo La Lot",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2020/01/co-lieng1.jpg"
+        },
+        {
+            "type": "Bun Thang",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/bun-thang-ba-duc5.jpg"
+        },
+        {
+            "type": "Banh Trang Nuong",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/saigon-2cv-street-food5.jpg"
+        },
+        {
+            "type": "Chao Ga",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/hanoi-street-food-tour18.jpg"
+        },
+        {
+            "type": "Bun Dau Mam Tom",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/12/bun-dao-mam-tom1.jpg"
+        },
+        {
+            "type": "Sup Bap Cua",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/vinh-khanh-district4-21.jpg"
+        },
+        {
+            "type": "Bach Tuoc Nuong Sa Te",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/vinh-khanh-district4-13.jpg"
+        },
+        {
+            "type": "Che",
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/09/achefstour-hanoi-sreet-food-che2.jpg"
         }
     ]
 }
