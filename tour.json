@@ -2,7 +2,24 @@
     "food": [
         {
             "type": "Pho",
-            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/pho-gia-truyen-bat-dan2.jpg"
+            "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/pho-gia-truyen-bat-dan2.jpg",
+            "places": [
+                {
+                    "name": "Pho Tau Bay 435",
+                    "imageUrls": [
+                        "test"
+                    ],
+                    "latitude": 10.767901,
+                    "longitude": 106.668773,
+                    "address": {
+                        "street": "435 Lý Thái Tổ",
+                        "province": "Phường 9",
+                        "district": "Quận 10",
+                        "city": "Hồ Chí Minh",
+                        "country": "Việt Nam"
+                    }
+                }
+            ]
         },
         {
             "type": "Banh Mi", 
