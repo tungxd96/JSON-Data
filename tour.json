@@ -6,6 +6,7 @@
             "places": [
                 {
                     "name": "Pho Tau Bay 435",
+                    "thumbnail": "https://res.cloudinary.com/lemi/image/fetch/w_1600,h_1200,c_limit,f_auto/https://media.lemi.travel/uploads-prod/g-252477451385487864987626838733.jpg",
                     "imageUrls": [
                         "test"
                     ],
