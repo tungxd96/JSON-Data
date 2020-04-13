@@ -1,52 +1,68 @@
 {
-    "food": {
-        "Pho": {
+    "food": [
+        {
+            "type": "Pho",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/pho-gia-truyen-bat-dan2.jpg"
         },
-        "Banh Mi": {
+        {
+            "type": "Banh Mi", 
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/12/madam-khanh-the-banh-my-queen1.jpg"
         },
-        "Nem Cuon / Goi Cuon": {
+        {
+            "type": "Nem Cuon / Goi Cuon",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/goi-cuon.jpg"
         },
-        "Bun Cha": {
+        {
+            "type": "Bun Cha",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/bun-cha-74-hang-quat2.jpg"
         },
-        "Bun Thit Nuong": {
+        {
+            "type": "Bun Thit Nuong",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2020/01/bun-thit-nuong-nguyen-trung-truc3.jpg"
         },
-        "Cao Lau": {
+        {
+            "type": "Cao Lau",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/12/cao-lau-khong-gian-xanh1.jpg"
         },
-        "Mi Quang": {
+        {
+            "type": "Mi Quang",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/12/pho-xua1.jpg"
         },
-        "Oc": {
+        {
+            "type": "Oc",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2020/01/snail-lady-mrs-truoc2.jpg"
         },
-        "Cha Ca": {
+        {
+            "type": "Cha Ca",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/cha-ca-lao-ngu2.jpg"
         },
-        "Banh Cuon": {
+        {
+            "type": "Banh Cuon",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/10/banh-cuon-ba-xuan1.jpg"
         },
-        "Banh Xeo": {
+        {
+            "type": "Banh Xeo",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/morning-glory5.jpg"
         },
-        "Banh Khoai": {
+        {
+            "type": "Banh Khoai",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/11/lac-thien2.jpg"
         },
-        "Banh Hue": {
+        {
+            "type": "Banh Hue",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/11/hang-me-me1.jpg"
         },
-        "Banh Bao Banh Vac": {
+        {
+            "type": "Banh Bao Banh Vac",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2017/08/white-rose-restaurant4.jpg"
         },
-        "Bun Bo Hue": {
+        {
+            "type": "Bun Bo Hue",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2019/11/bun-bo-hue-hanh3.jpg"
         },
-        "Thang Co": {
+        {
+            "type": "Thang Co",
             "imageUrl": "https://www.willflyforfood.net/wp-content/uploads/2020/02/thang-co.jpg"
         }
-    }
+    ]
 }
