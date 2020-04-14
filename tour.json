@@ -93,6 +93,24 @@
                     },
                     "phoneNumber": "28 3843 5630",
                     "countryCode": "84"
+                },
+                {
+                    "name": "Phở Minh",
+                    "thumbnail": "https://saigonfolks.com/wp-content/uploads/2019/09/PhoMinh.jpg",
+                    "imageUrls": [
+                        "test"
+                    ],
+                    "latitude": 10.774863,
+                    "longitude": 106.700276,
+                    "address": {
+                        "street": "63/6 Pasteur",
+                        "ward": "Bến Nghé",
+                        "district": "Quận 1",
+                        "city": "Hồ Chí Minh",
+                        "country": "Việt Nam"
+                    },
+                    "phoneNumber": "28 3822 0345",
+                    "countryCode": "84"
                 }
             ]
         },
