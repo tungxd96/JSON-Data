@@ -14,7 +14,7 @@
                     "longitude": 106.668773,
                     "address": {
                         "street": "435 Lý Thái Tổ",
-                        "province": "Phường 9",
+                        "ward": "Phường 9",
                         "district": "Quận 10",
                         "city": "Hồ Chí Minh",
                         "country": "Việt Nam"
@@ -32,7 +32,7 @@
                     "longitude": 106.689293,
                     "address": {
                         "street": "260C Pasteur",
-                        "province": "Phường 8",
+                        "ward": "Phường 8",
                         "district": "Quận 3",
                         "city": "Hồ Chí Minh",
                         "country": "Việt Nam"
@@ -50,7 +50,7 @@
                     "longitude": 106.685987,
                     "address": {
                         "street": "303-305 Võ Văn Tần",
-                        "province": "Phường 5",
+                        "ward": "Phường 5",
                         "district": "Quận 3",
                         "city": "Hồ Chí Minh",
                         "country": "Việt Nam"
@@ -68,7 +68,7 @@
                     "longitude": 106.684828,
                     "address": {
                         "street": "288 M1 Nam Kỳ Khởi Nghĩa",
-                        "province": "Phường 8",
+                        "ward": "Phường 8",
                         "district": "Quận 3",
                         "city": "Hồ Chí Minh",
                         "country": "Việt Nam"
@@ -86,7 +86,7 @@
                     "longitude": 106.681839,
                     "address": {
                         "street": "14/5Bis Kỳ Đồng",
-                        "province": "Phường 9",
+                        "ward": "Phường 9",
                         "district": "Quận 3",
                         "city": "Hồ Chí Minh",
                         "country": "Việt Nam"
